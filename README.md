@@ -18,6 +18,7 @@ In the first week, I learned the **basics of Python**, including:
   
   [Presenatation in Python ](https://github.com/Musrat-Jahan/Software_Development_Intern/blob/main/Python%20Slide.pptx)
   
+---
 ### Week 2 – Simple Python Project
 In the second week, I worked on a simple Python program:
 
@@ -32,7 +33,6 @@ In the second week, I worked on a simple Python program:
 
 This is a simple Python number guessing game where the computer generates a random secret number and the player tries to guess it within a limited number of attempts.
 
----
 ## How the Game Works
 
 - The program asks the user if they want to start the game.
@@ -46,8 +46,6 @@ This is a simple Python number guessing game where the computer generates a rand
   - Correct
 - The game ends when the number is guessed or attempts run out.
 - The player can choose to play multiple rounds.
-
----
 
 ## Program Structure
 
