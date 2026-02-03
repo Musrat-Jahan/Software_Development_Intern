@@ -73,7 +73,7 @@ This is a simple Python number guessing game where the computer generates a rand
 ## Week 2
 ## Task 1: Personal Expense
 
-[Guess Game Python File](https://github.com/Musrat-Jahan/Software_Development_Intern/blob/main/Guess_Game.py)
+[Guess Game Python File](https://github.com/Musrat-Jahan/Software_Development_Intern/blob/main/Personal%20Expense%20Tracker.py))
 Application Type
 * Must be a **console / terminal program** (not GUI, not web).
 * Must show a **menu** and let the user select options.
