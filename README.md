@@ -569,6 +569,9 @@ Save dependencies
 
 ![First Django Project](https://github.com/Musrat-Jahan/Software_Development_Intern/raw/main/Images/DjangoProject1.png)
 
+*Project Administration Site:
+![First Django Project](https://github.com/Musrat-Jahan/Software_Development_Intern/blob/main/Images/PythonDjango%20Project%20SS.png)
+
 * Second Project in Django:
 
 ![Second Project](https://github.com/Musrat-Jahan/Software_Development_Intern/raw/main/Images/MusratHomepageSS.png)
