@@ -519,3 +519,56 @@ Actual Result
 Login fails with message:
 
 "These credentials do not match."
+
+
+---
+## Django Installation
+
+1. Create a folder in pc . like djangoproject
+
+2. open that fo;der in vs code
+3. Open Terminal
+4. Command:
+
+Create virtual environment
+-> python -m venv venv
+
+Activate virtual environment
+ -> venv\Scripts\Activate
+
+Upgrade pip
+-> python -m pip install --upgrade pip
+
+Install Django
+-> pip install django
+
+Create new Django project in current directory
+-> django-admin startproject myproject .
+
+Create a new Django app
+-> python manage.py startapp myapp
+
+Edit settings.py to add 'myapp' to INSTALLED_APPS (manual step)
+Apply database migrations
+-> python manage.py migrate
+
+Create admin (superuser) account
+-> python manage.py createsuperuser
+
+Run the development server
+-> python manage.py runserver
+
+Deactivate virtual environment
+-> deactivate
+
+Save dependencies
+-> pip freeze > requirements.txt
+
+## Screenshots
+* First Project in Django:
+
+![First Django Project](https://github.com/Musrat-Jahan/Software_Development_Intern/raw/main/Images/DjangoProject1.png)
+
+* Second Project in Django:
+
+![Second Project](https://github.com/Musrat-Jahan/Software_Development_Intern/raw/main/Images/MusratHomepageSS.png)
