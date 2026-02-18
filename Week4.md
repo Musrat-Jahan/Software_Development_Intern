@@ -21,23 +21,23 @@ website must contain the following pages:
  First, we need to create a folder in Django program called 
   
 For Windows: Command in VS code terminal
-venv\Scripts\activate
+-> venv\Scripts\activate
 
-# Delete the old SQLite database
-Remove-Item db.sqlite3
+Delete the old SQLite database
+-> Remove-Item db.sqlite3
 
-# Delete migrations folders
-Remove-Item -Recurse -Force accounts\migrations
-Remove-Item -Recurse -Force core\migrations
+Delete migrations folders
+-> Remove-Item -Recurse -Force accounts\migrations
+-> Remove-Item -Recurse -Force core\migrations
 
-python manage.py makemigrations accounts
-python manage.py migrate
-python manage.py createsuperuser
+-> python manage.py makemigrations accounts
+-> python manage.py migrate
+-> python manage.py createsuperuser
 
 for run:
 
-venv\Scripts\activate
-python manage.py runserver
+-> venv\Scripts\activate
+-> python manage.py runserver
 
 
 Home page:
