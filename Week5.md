@@ -11,10 +11,15 @@ Build a secure multi-user task management system where:
 
 * Users can register and login
 * Users manage only their own tasks
+* Register two different users
+* Log in as user 1, create tasks, see dashboard stats
+* Log out and log in as user 2, see a clean empty dashboard and separate tasks
+* Confirm user 2 cannot access user 1’s tasks by URL
+* Use filters/search/pagination on the list page
+* Update/delete/complete tasks
 * Dashboard shows task statistics
 * Tasks can be filtered, searched, and exported
 * System follows proper security practices
-
 
 ## Tech Stack
 
@@ -40,7 +45,6 @@ python
 user = OneToOneField(User)
 profile_picture = ImageField
 bio = TextField
-
 
 Automatically created when a new user registers.
 
