@@ -1,0 +1,6 @@
+id,name,source,course_service,gender,location,phone,stage,contacted_at,created_at,referral_id,notes,referral_user_id,referral_name,referral_phone,referral_email,client_id,client_name,client_location,client_lead_id
+1,Alice Brown,Facebook,Python Course,Female,Darwin,0411111111,Paid,2026-03-10 10:00:00,2026-03-08 09:00:00,1.0,Very interested and followed up,1.0,John Referral,0400000001,john@example.com,1.0,Alice Brown,Darwin,1.0
+5,Eva Islam,Website,Data Analytics,Female,Brisbane,0444444444,Paid,2026-03-09 15:00:00,2026-03-07 10:00:00,,Converted quickly,,,,,2.0,Eva Islam,Brisbane,5.0
+2,Bob Khan,Website,Web Development,Male,Melbourne,0422222222,Hot,2026-03-12 11:00:00,2026-03-10 08:30:00,2.0,Asked for course details,2.0,Sarah Referral,0400000002,sarah@example.com,,,,
+3,Charlie Smith,Referral,Cyber Security,Male,Sydney,,Warm,,2026-03-11 14:00:00,1.0,Needs second contact,1.0,John Referral,0400000001,john@example.com,,,,
+4,Diana Roy,Facebook,Python Course,Female,Darwin,0433333333,Cold,,2026-03-15 12:00:00,,,,,,,,,,

@@ -1,0 +1,4 @@
+id,amount,date_paid,due_date,installment_number,sales_payment_record_id
+1,1200.0,2026-03-10,2026-03-15,1,1
+2,800.0,2026-03-12,2026-03-20,1,2
+3,700.0,,2026-04-01,2,2

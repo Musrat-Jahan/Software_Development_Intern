@@ -1,0 +1,6 @@
+has_location,has_phone,has_referral,referral_lead_count,days_since_contacted,days_since_created,contact_speed,notes_length,has_notes,created_day_of_week,created_month,gender_male,gender_female,gender_unknown,source_facebook,source_referral,source_website,course_service_cyber security,course_service_data analytics,course_service_python course,course_service_web development,location_brisbane,location_darwin,location_melbourne,location_sydney,converted
+1,1,1,2,8.0,10,2.0,31,1,7,3,0,1,0,True,False,False,False,False,True,False,False,True,False,False,1
+1,1,0,0,9.0,11,2.0,17,1,6,3,0,1,0,False,False,True,False,True,False,False,True,False,False,False,1
+1,1,1,1,6.0,8,2.0,24,1,2,3,1,0,0,False,False,True,False,False,False,True,False,False,True,False,0
+1,0,1,2,-1.0,7,-1.0,20,1,3,3,1,0,0,False,True,False,True,False,False,False,False,False,False,True,0
+1,1,0,0,-1.0,3,-1.0,0,0,7,3,0,1,0,True,False,False,False,False,True,False,False,True,False,False,0

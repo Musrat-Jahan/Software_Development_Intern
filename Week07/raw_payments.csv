@@ -1,0 +1,11 @@
+id,amount,date,payment_type,category,client_id,purpose
+1,1200.0,2026-03-10,Full,Course Fee,1,Python Course payment
+2,800.0,2026-03-12,Partial,Course Fee,2,Data Analytics deposit
+3,950.0,2025-09-15,Full,Course Fee,1,Python Course payment
+4,1100.0,2025-10-10,Full,Course Fee,1,Web Development payment
+5,700.0,2025-11-05,Partial,Course Fee,2,Cyber Security deposit
+6,1300.0,2025-12-12,Full,Course Fee,1,Data Analytics payment
+7,850.0,2026-01-08,Partial,Course Fee,2,Python deposit
+8,1600.0,2026-02-18,Full,Course Fee,1,Cyber Security full payment
+9,900.0,2026-03-03,Partial,Course Fee,2,Web Development deposit
+10,1250.0,2026-04-09,Full,Course Fee,1,Data Analytics payment
