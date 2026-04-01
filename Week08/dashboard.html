@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MetroBlue ML Service</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f7f9fc; color: #1f2937; }
+    .card { background: #fff; padding: 20px; border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,.08); margin-bottom: 20px; }
+    h1, h2 { margin-top: 0; }
+    code { background: #eef2ff; padding: 2px 6px; border-radius: 6px; }
+    ul { line-height: 1.8; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>MetroBlue ML Service</h1>
+    <p>Lead model: <strong>{{ lead_status }}</strong></p>
+    <p>Revenue model: <strong>{{ revenue_status }}</strong></p>
+  </div>
+  <div class="card">
+    <h2>Available endpoints</h2>
+    <ul>
+      <li><code>GET /health</code></li>
+      <li><code>POST /predict-lead</code></li>
+      <li><code>GET /lead-model-info</code></li>
+      <li><code>GET /revenue-forecast?months=3</code></li>
+      <li><code>GET /revenue-model-info</code></li>
+      <li><code>GET /docs</code></li>
+    </ul>
+  </div>
+</body>
+</html>
